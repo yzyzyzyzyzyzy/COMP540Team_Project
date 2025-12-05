@@ -19,7 +19,7 @@ Here is the organization of the submitted codebase:
 * **`03_Inference.ipynb` (Run this for Grading)**
     * **Function:** Loads the pre-trained model, performs inference, and generates the Attention Map visualizations/Error Analysis shown in our report.
 * **`models/`**: Contains our trained model weights
-* **`rsna-cta-training.ipynb` (Run this for Grading)**
+* **`rsna-cta-training.ipynb`**
     * **Function:** This file is the same with the model training file, but include the implicit neuron representation model.
 
 
